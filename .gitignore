@@ -1,0 +1,7 @@
+backend/node_modules
+backend/.env
+
+frontend/client/node_modules
+frontend/client/.eslintcache
+frontend/client/yarn-error.log
+frontend/client/README.md
